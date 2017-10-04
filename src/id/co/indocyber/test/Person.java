@@ -13,7 +13,7 @@ import java.util.List;
  *
  * @author user
  */
-public class Person extends CalculateKreditAnalysis{
+public class Person {
  
     private String nama;
     private String gender;
